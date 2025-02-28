@@ -1,6 +1,6 @@
 # Generative-Model-Paper
 
-The following are my research interests (some papers I have recently read🥸).
+The following summarized papers are my research interests (some papers I have recently read🥸).
 
 ---
 ## ImageNet Generation SOTA:
