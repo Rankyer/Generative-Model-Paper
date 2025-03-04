@@ -22,4 +22,5 @@ The following summarized papers are my research interests (some papers I have re
 [Language Modeling by Estimating the Ratios of the Data Distribution](https://aaronlou.com/blog/2024/discrete-diffusion/) (SEDD)
 
 ## Video
-Score Matching [Youtube](https://www.youtube.com/watch?v=B4oHJpEJBAA) [Bilibili](https://www.bilibili.com/video/BV1h8FZeBEqj?vd_source=5519a229401f5e71a4a2b1c367c2a569)
++ Score Matching [Youtube](https://www.youtube.com/watch?v=B4oHJpEJBAA) [Bilibili](https://www.bilibili.com/video/BV1h8FZeBEqj?vd_source=5519a229401f5e71a4a2b1c367c2a569)
++ Diffusion and Scored-based Generative Model (by Yang Song) [Youtube](https://www.youtube.com/watch?v=wMmqCMwuM2Q) [Bilibili](https://www.bilibili.com/video/BV1LpNweeE3q?vd_source=5519a229401f5e71a4a2b1c367c2a569)
