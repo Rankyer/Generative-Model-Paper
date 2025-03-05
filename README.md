@@ -13,6 +13,9 @@ The following summarized papers are my research interests (some papers I have re
 + 2024.06.06 [Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data](https://arxiv.org/abs/2406.03736)
 + 2023.10.25 [Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution](https://arxiv.org/abs/2310.16834) (SEDD)
 
++ 2021.07.07 [Structured Denoising Diffusion Models in Discrete State-Spaces](https://arxiv.org/abs/2107.03006)
+
+
 ## Methodology
 + 2019.07.12 [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600) (Score-based method)
 
