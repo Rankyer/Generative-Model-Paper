@@ -32,7 +32,11 @@ The following papers are my research interests (some papers I have recently read
 ## Methodology
 + 2019.07.12 [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600) (Score-based method)
 
+## Dataset efficient (distillation/optimization...):
++ 2023.12.06 [On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm](https://arxiv.org/abs/2312.03526) (RDED)
 
+## Self-Supervised learning:
++ 2020.06.13 [Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733) (BYOL)
 
 ## Blog
 [Language Modeling by Estimating the Ratios of the Data Distribution](https://aaronlou.com/blog/2024/discrete-diffusion/) (SEDD)
