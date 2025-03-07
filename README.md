@@ -3,9 +3,12 @@
 The following papers are my research interests (some papers I have recently read🥸).
 
 ---
-## ImageNet Generation SOTA:
-+ Ranking list: https://paperswithcode.com/sota/image-generation-on-imagenet-256x256
-+ 2025.02.17 [Diffusion Models without Classifier-free Guidance](https://arxiv.org/abs/2502.12154v1) (FID:1.34)
+
+## Multimodal：
++ 2021.02.26 [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) (CLIP)
+
+## Language models：
++ 2020.05.28 [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) (GPT3)
 
 ## Large Language Diffusion model:
 + 2025.02.14 [Large Language Diffusion Models](https://arxiv.org/pdf/2502.09992)
@@ -16,6 +19,10 @@ The following papers are my research interests (some papers I have recently read
 + 2023.03.12 [Diffusion Models for Non-autoregressive Text Generation: A Survey](https://arxiv.org/abs/2303.06574) (Survey)
 + 2021.07.07 [Structured Denoising Diffusion Models in Discrete State-Spaces](https://arxiv.org/abs/2107.03006) (D3PM)
   + Diffusion models with discrete state spaces as a competitive model class for large scale text or image generation.
+
+## ImageNet Generation SOTA:
++ Ranking list: https://paperswithcode.com/sota/image-generation-on-imagenet-256x256
++ 2025.02.17 [Diffusion Models without Classifier-free Guidance](https://arxiv.org/abs/2502.12154v1) (FID:1.34)
 
 ## Diffusion model:
 + 2020.10.06 [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) (DDIM)
@@ -29,7 +36,7 @@ The following papers are my research interests (some papers I have recently read
 + 2022.08.25 [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242) (DreamBooth)
 + 2022.08.02 [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://arxiv.org/abs/2208.01618) (Textual Inversion)
 
-## Methodology
+## Methodology of diffusion model:
 + 2019.07.12 [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600) (Score-based method)
 
 ## Dataset efficient (distillation/optimization...):
@@ -37,6 +44,14 @@ The following papers are my research interests (some papers I have recently read
 
 ## Self-Supervised learning:
 + 2020.06.13 [Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733) (BYOL)
+
+## Architecture:
+Transformer/...
+
+## Classic:
+AlexNet/GAN...
+
+---
 
 ## Blog
 [Language Modeling by Estimating the Ratios of the Data Distribution](https://aaronlou.com/blog/2024/discrete-diffusion/) (SEDD)
