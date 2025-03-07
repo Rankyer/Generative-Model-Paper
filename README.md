@@ -18,6 +18,13 @@ The following papers are my research interests (some papers I have recently read
 + 2021.07.07 [Structured Denoising Diffusion Models in Discrete State-Spaces](https://arxiv.org/abs/2107.03006) (D3PM)
   + Diffusion models with discrete state spaces as a competitive model class for large scale text or image generation.
 
+## Diffusion model:
+
++ 2020.10.06 [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) (DDIM)
++ 2020.06.19 [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) (DDPM)
++ 2015.03.12 [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585)
+
+
 
 ## Methodology
 + 2019.07.12 [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600) (Score-based method)
