@@ -13,18 +13,21 @@ The following papers are my research interests (some papers I have recently read
 + 2024.10.23 [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://arxiv.org/abs/2410.17891) (Adaptation)
 + 2024.06.06 [Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data](https://arxiv.org/abs/2406.03736)
 + 2023.10.25 [Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution](https://arxiv.org/abs/2310.16834) (SEDD)
-
 + 2023.03.12 [Diffusion Models for Non-autoregressive Text Generation: A Survey](https://arxiv.org/abs/2303.06574) (Survey)
 + 2021.07.07 [Structured Denoising Diffusion Models in Discrete State-Spaces](https://arxiv.org/abs/2107.03006) (D3PM)
   + Diffusion models with discrete state spaces as a competitive model class for large scale text or image generation.
 
 ## Diffusion model:
-
 + 2020.10.06 [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) (DDIM)
 + 2020.06.19 [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) (DDPM)
 + 2015.03.12 [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585)
 
-
+## Diffusion model for customization:
++ 2024.07.08 [Ada-adapter:Fast Few-shot Style Personlization of Diffusion Model with Pre-trained Image Encoder](https://arxiv.org/abs/2407.05552) (Ada-adapter)
++ 2023.08.13 [IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models](https://arxiv.org/abs/2308.06721) (IP-Adapter)
++ 2023.02.10 [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) (ControlNet)
++ 2022.08.25 [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242) (DreamBooth)
++ 2022.08.02 [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://arxiv.org/abs/2208.01618) (Textual Inversion)
 
 ## Methodology
 + 2019.07.12 [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600) (Score-based method)
