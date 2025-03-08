@@ -27,8 +27,11 @@ The following papers are my research interests (some papers I have recently read
 + 2025.02.17 [Diffusion Models without Classifier-free Guidance](https://arxiv.org/abs/2502.12154v1) (FID:1.34)
 
 ## Diffusion model:
++ 2020.11.26 [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
+  + Unified framework for 19's score-based method and 20's DDPM.
 + 2020.10.06 [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) (DDIM)
 + 2020.06.19 [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) (DDPM)
++ 2019.07.12 [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600) (Score-based method)
 + 2015.03.12 [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585)
 
 ## Diffusion model for customization:
@@ -37,9 +40,6 @@ The following papers are my research interests (some papers I have recently read
 + 2023.02.10 [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) (ControlNet)
 + 2022.08.25 [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242) (DreamBooth)
 + 2022.08.02 [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://arxiv.org/abs/2208.01618) (Textual Inversion)
-
-## Methodology of diffusion model:
-+ 2019.07.12 [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600) (Score-based method)
 
 ## Dataset efficient (distillation/optimization...):
 + 2023.12.06 [On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm](https://arxiv.org/abs/2312.03526) (RDED)
