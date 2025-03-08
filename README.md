@@ -17,6 +17,8 @@ The following papers are my research interests (some papers I have recently read
 + 2024.06.06 [Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data](https://arxiv.org/abs/2406.03736)
 + 2023.10.25 [Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution](https://arxiv.org/abs/2310.16834) (SEDD)
 + 2023.03.12 [Diffusion Models for Non-autoregressive Text Generation: A Survey](https://arxiv.org/abs/2303.06574) (Survey)
++ 2022.05.30 [A Continuous Time Framework for Discrete Denoising Models](https://arxiv.org/abs/2205.14987) (CTMC)
+  + First complete continuous time framework for discrete diffusion.
 + 2021.07.07 [Structured Denoising Diffusion Models in Discrete State-Spaces](https://arxiv.org/abs/2107.03006) (D3PM)
   + Diffusion models with discrete state spaces as a competitive model class for large scale text or image generation.
 
