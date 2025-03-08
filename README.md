@@ -20,7 +20,7 @@ The following papers are my research interests (some papers I have recently read
 + 2022.05.30 [A Continuous Time Framework for Discrete Denoising Models](https://arxiv.org/abs/2205.14987) (CTMC)
   + First complete continuous time framework for discrete diffusion.
 + 2021.07.07 [Structured Denoising Diffusion Models in Discrete State-Spaces](https://arxiv.org/abs/2107.03006) (D3PM)
-  + Diffusion models with discrete state spaces as a competitive model class for large scale text or image generation.
+  + Diffusion models with discrete state spaces as a competitive model class for large scale text or image generation, however, it trains and samples the model in discrete time.
 
 ## ImageNet Generation SOTA:
 + Ranking list: https://paperswithcode.com/sota/image-generation-on-imagenet-256x256
