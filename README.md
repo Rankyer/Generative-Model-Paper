@@ -8,7 +8,11 @@ The following papers are my research interests (some papers I have recently read
 + 2021.02.26 [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) (CLIP)
 
 ## Language models：
++ 2023.03.15 [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) (GPT4)
++ 2022.01.26 [InstructGPT: Training Language Models to Follow Instructions with Human Feedback](https://openai.com/research/instruction-following)
 + 2020.05.28 [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) (GPT3)
++ 2019.02.14 [Language Models are Unsupervised Multitask Learners](https://openai.com/research/better-language-models) (GPT2)
++ 2018.06.11 [Improving Language Understanding by Generative Pre-Training](https://openai.com/research/language-unsupervised) (GPT)
 
 ## Large Language Diffusion model:
 + 2025.02.14 [Large Language Diffusion Models](https://arxiv.org/pdf/2502.09992)
@@ -46,6 +50,7 @@ The following papers are my research interests (some papers I have recently read
 
 ## Dataset efficient (distillation/optimization...):
 + 2023.12.06 [On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm](https://arxiv.org/abs/2312.03526) (RDED)
++ 2023.06.22 [Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective](https://arxiv.org/abs/2306.13092) (SRe2L)
 + 2022.07.20 [DC-BENCH: Dataset Condensation Benchmark](https://arxiv.org/abs/2207.09639) 
 + 2022.03.22 [Dataset Distillation by Matching Training Trajectories](https://arxiv.org/abs/2203.11932) (TM: matching trajectory)
 + 2022.03.03 [CAFE: Learning to Condense Dataset by Aligning Features](https://arxiv.org/abs/2203.01531) (matching feature)
