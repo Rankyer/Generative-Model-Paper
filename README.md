@@ -51,7 +51,8 @@ The following papers are my research interests (some papers I have recently read
 ## Dataset efficient (distillation/optimization...):
 + 2023.12.06 [On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm](https://arxiv.org/abs/2312.03526) (RDED)
 + 2023.06.22 [Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective](https://arxiv.org/abs/2306.13092) (SRe2L)
-+ 2022.07.20 [DC-BENCH: Dataset Condensation Benchmark](https://arxiv.org/abs/2207.09639) 
++ 2022.07.20 [DC-BENCH: Dataset Condensation Benchmark](https://arxiv.org/abs/2207.09639)
++ 2022.06.29 [Beyond neural scaling laws: beating power law scaling via data pruning](https://arxiv.org/abs/2206.14486) (scaling law)
 + 2022.03.22 [Dataset Distillation by Matching Training Trajectories](https://arxiv.org/abs/2203.11932) (TM: matching trajectory)
 + 2022.03.03 [CAFE: Learning to Condense Dataset by Aligning Features](https://arxiv.org/abs/2203.01531) (matching feature)
 + 2021.10.08 [Dataset Condensation with Distribution Matching](https://arxiv.org/abs/2110.04181) (DM: matching distribution)
