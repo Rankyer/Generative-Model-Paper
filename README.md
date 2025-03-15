@@ -34,7 +34,8 @@ The following papers are my research interests (some papers I have recently read
 + 2025.02.17 [Diffusion Models without Classifier-free Guidance](https://arxiv.org/abs/2502.12154v1) (FID:1.34)
 
 ## Diffusion model:
-+ 2021.05.11 [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233) (introduce classifier guidance)
++ 2022.07.26 [Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2207.12598) (classifier free guidance)
++ 2021.05.11 [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233) (classifier guidance)
 + 2020.11.26 [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
   + Unified framework for 19's score-based method and 20's DDPM.
 + 2020.10.06 [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) (DDIM)
