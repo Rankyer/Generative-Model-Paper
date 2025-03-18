@@ -50,6 +50,8 @@ The following papers are my research interests (some papers I have recently read
 + 2022.08.25 [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242) (DreamBooth)
 + 2022.08.02 [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://arxiv.org/abs/2208.01618) (Textual Inversion)
 
+## Trustworthy AI
+
 ## Dataset efficient (distillation/optimization...):
 + 2023.12.06 [On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm](https://arxiv.org/abs/2312.03526) (RDED)
 + 2023.06.22 [Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective](https://arxiv.org/abs/2306.13092) (SRe2L)
