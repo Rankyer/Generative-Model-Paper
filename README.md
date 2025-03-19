@@ -52,7 +52,7 @@ The following papers are my research interests (some papers I have recently read
 
 ## Trustworthy AI
 
-## Dataset efficient (distillation/optimization...):
+## Efficient AI:
 + 2023.12.06 [On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm](https://arxiv.org/abs/2312.03526) (RDED)
 + 2023.06.22 [Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective](https://arxiv.org/abs/2306.13092) (SRe2L)
 + 2022.07.20 [DC-BENCH: Dataset Condensation Benchmark](https://arxiv.org/abs/2207.09639)
