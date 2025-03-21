@@ -5,6 +5,7 @@ The following papers are my research interests (some papers I have recently read
 ---
 
 ## Multimodal：
++ 2024.09.12 [A Comprehensive Survey on Deep Multimodal Learning with Missing Modality](https://arxiv.org/abs/2409.07825v1)
 + 2021.02.26 [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) (CLIP)
 
 ## Language models：
