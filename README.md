@@ -63,6 +63,8 @@ The following papers are my research interests (some papers I have recently read
 + 2021.10.08 [Dataset Condensation with Distribution Matching](https://arxiv.org/abs/2110.04181) (DM: matching distribution)
 + 2020.06.10 [Dataset Condensation with Gradient Matching](https://arxiv.org/abs/2006.05929) (DC: matching gradient)
 
++ 2015.03.09 [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
+
 ## Self-Supervised learning:
 + 2020.06.13 [Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733) (BYOL)
 
