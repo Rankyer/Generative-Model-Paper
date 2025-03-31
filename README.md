@@ -61,6 +61,7 @@ The following papers are my research interests (some papers I have recently read
 + 2022.03.22 [Dataset Distillation by Matching Training Trajectories](https://arxiv.org/abs/2203.11932) (TM: matching trajectory)
 + 2022.03.03 [CAFE: Learning to Condense Dataset by Aligning Features](https://arxiv.org/abs/2203.01531) (matching feature)
 + 2021.10.08 [Dataset Condensation with Distribution Matching](https://arxiv.org/abs/2110.04181) (DM: matching distribution)
++ 2021.06.09 [Knowledge distillation: A good teacher is patient and consistent](https://arxiv.org/abs/2106.05237v2)
 + 2020.06.10 [Dataset Condensation with Gradient Matching](https://arxiv.org/abs/2006.05929) (DC: matching gradient)
 
 + 2015.03.09 [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
