@@ -3,6 +3,13 @@
 The following papers are my research interests (some papers I have recently read🥸).
 
 ---
+## Test-Time Scaling (for Diffusion Model):
++ 2025.01.16 [Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps](https://arxiv.org/abs/2501.09732)
++ 2024.06.06 [ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization](https://arxiv.org/abs/2406.04312)
+
+## Unified Multimodal Models:
++ 2025.04.08 [Transfer between Modalities with MetaQueries](https://arxiv.org/abs/2504.06256)
++ 2025.03.17 [Unified Autoregressive Visual Generation and Understanding with Continuous Tokens](https://arxiv.org/abs/2503.13436)
 
 ## Multimodal：
 + 2024.09.12 [A Comprehensive Survey on Deep Multimodal Learning with Missing Modality](https://arxiv.org/abs/2409.07825v1)
@@ -56,7 +63,7 @@ The following papers are my research interests (some papers I have recently read
 + 2024.11.22 [HeadRouter: A Training-free Image Editing Framework for MM-DiTs by Adaptively Routing Attention Heads](https://arxiv.org/abs/2411.15034)
 + 2024.11.21 [Stable Flow: Vital Layers for Training-Free Image Editing](https://arxiv.org/abs/2411.14430)
 + 2024.11.07 [Taming Rectified Flow for Inversion and Editing](https://arxiv.org/abs/2501.09732)
-+ 2022.08.02 [https://arxiv.org/abs/2208.01626](https://arxiv.org/abs/2208.01626)
++ 2022.08.02 [Prompt-to-Prompt Image Editing with Cross Attention Control](https://arxiv.org/abs/2208.01626)
 
 ## Trustworthy AI
 
