@@ -51,6 +51,13 @@ The following papers are my research interests (some papers I have recently read
 + 2022.08.25 [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242) (DreamBooth)
 + 2022.08.02 [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://arxiv.org/abs/2208.01618) (Textual Inversion)
 
+## Image Editing
++ 2025.02.24 [KV-Edit: Training-Free Image Editing for Precise Background Preservation](https://arxiv.org/abs/2502.17363)
++ 2024.11.22 [HeadRouter: A Training-free Image Editing Framework for MM-DiTs by Adaptively Routing Attention Heads](https://arxiv.org/abs/2411.15034)
++ 2024.11.21 [Stable Flow: Vital Layers for Training-Free Image Editing](https://arxiv.org/abs/2411.14430)
++ 2024.11.07 [Taming Rectified Flow for Inversion and Editing](https://arxiv.org/abs/2501.09732)
++ 2022.08.02 [https://arxiv.org/abs/2208.01626](https://arxiv.org/abs/2208.01626)
+
 ## Trustworthy AI
 
 ## Efficient AI:
