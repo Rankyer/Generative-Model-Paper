@@ -11,7 +11,7 @@ The following papers are my research interests (some papers I have recently read
 + 2025.04.08 [Transfer between Modalities with MetaQueries](https://arxiv.org/abs/2504.06256)
 + 2025.03.17 [Unified Autoregressive Visual Generation and Understanding with Continuous Tokens](https://arxiv.org/abs/2503.13436)
 
-## Multimodal：
+## Multimodal (Understanding):
 + 2024.09.12 [A Comprehensive Survey on Deep Multimodal Learning with Missing Modality](https://arxiv.org/abs/2409.07825v1)
 + 2021.02.26 [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) (CLIP)
 
@@ -22,7 +22,7 @@ The following papers are my research interests (some papers I have recently read
 + 2019.02.14 [Language Models are Unsupervised Multitask Learners](https://openai.com/research/better-language-models) (GPT2)
 + 2018.06.11 [Improving Language Understanding by Generative Pre-Training](https://openai.com/research/language-unsupervised) (GPT)
 
-## Large Language Diffusion model (Non-autoregressive Model/NAR):
+## Language Diffusion model (Non-autoregressive Model/NAR):
 + 2025.02.14 [Large Language Diffusion Models](https://arxiv.org/pdf/2502.09992)
 + 2024.10.24 [Scaling up Masked Diffusion Models on Text](https://arxiv.org/abs/2410.18514)
 + 2024.10.23 [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://arxiv.org/abs/2410.17891) (Adaptation)
@@ -39,7 +39,6 @@ The following papers are my research interests (some papers I have recently read
 
 ## ImageNet Generation SOTA:
 + Ranking list: https://paperswithcode.com/sota/image-generation-on-imagenet-256x256
-+ 2025.02.17 [Diffusion Models without Classifier-free Guidance](https://arxiv.org/abs/2502.12154v1) (FID:1.34)
 
 ## Diffusion model:
 + 2022.07.26 [Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2207.12598) (classifier free guidance)
