@@ -5,8 +5,12 @@ The following papers are my research interests (some papers I have recently read
 ---
 ## Test-Time Scaling (for Diffusion Model):
 + 2025.01.16 [Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps](https://arxiv.org/abs/2501.09732)
++ 2024.12.05 [A Noise is Worth Diffusion Guidance](https://arxiv.org/abs/2412.03895)
 + 2024.07.19 [Not All Noises Are Created Equally:Diffusion Noise Selection and Optimization](https://arxiv.org/abs/2407.14041)
 + 2024.06.06 [ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization](https://arxiv.org/abs/2406.04312)
++ 2023.12.13 [Semantic-Driven Initial Image Construction for Guided Image Synthesis in Diffusion Model](https://arxiv.org/abs/2312.08872v1)
++ 2023.05.05 [Guided Image Synthesis via Initial Image Editing in Diffusion Model](https://arxiv.org/abs/2305.03382)
++ 2023.04.27 [Generating images of rare concepts using pre-trained diffusion models](https://arxiv.org/abs/2304.14530)
 
 ## Unified Multimodal Models:
 + 2025.04.08 [Transfer between Modalities with MetaQueries](https://arxiv.org/abs/2504.06256)
