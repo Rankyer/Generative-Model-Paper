@@ -3,8 +3,11 @@
 The following papers are my research interests (some papers I have recently read🥸).
 
 ---
+
 ## Test-Time Scaling (for Diffusion Model):
 + 2025.01.16 [Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps](https://arxiv.org/abs/2501.09732)
+
+## Noise Optimization for Diffusion Model:
 + 2024.12.05 [A Noise is Worth Diffusion Guidance](https://arxiv.org/abs/2412.03895)
 + 2024.07.19 [Not All Noises Are Created Equally:Diffusion Noise Selection and Optimization](https://arxiv.org/abs/2407.14041)
 + 2024.06.06 [ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization](https://arxiv.org/abs/2406.04312)
