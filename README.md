@@ -7,6 +7,10 @@ The following papers are my research interests (some papers I have recently read
 ## Test-Time Scaling (for Diffusion Model):
 + 2025.01.16 [Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps](https://arxiv.org/abs/2501.09732)
 
+
+## Test-Time Scaling (for Language Model):
++ 2025.03.31 [A Survey on Test-Time Scaling in Large Language Models: What, How, Where, and How Well?](https://arxiv.org/abs/2503.24235)
+
 ## Noise Optimization for Diffusion Model:
 + 2024.12.05 [A Noise is Worth Diffusion Guidance](https://arxiv.org/abs/2412.03895)
 + 2024.07.19 [Not All Noises Are Created Equally:Diffusion Noise Selection and Optimization](https://arxiv.org/abs/2407.14041)
