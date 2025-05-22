@@ -5,11 +5,13 @@ The following papers are my research interests (some papers I have recently read
 ---
 
 ## Test-Time Scaling (for Diffusion Model):
++ 2025.03.15 [Reflect-DiT: Inference-Time Scaling for Text-to-Image Diffusion Transformers via In-Context Reflection](https://arxiv.org/abs/2503.12271)
 + 2025.01.16 [Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps](https://arxiv.org/abs/2501.09732)
 
 
 ## Test-Time Scaling (for Language Model):
 + 2025.03.31 [A Survey on Test-Time Scaling in Large Language Models: What, How, Where, and How Well?](https://arxiv.org/abs/2503.24235)
++ 2025.01.31 [SETS: Leveraging Self-Verification and Self-Correction for Improved Test-Time Scaling](https://arxiv.org/abs/2501.19306)
 
 ## Noise Optimization for Diffusion Model:
 + 2024.12.05 [A Noise is Worth Diffusion Guidance](https://arxiv.org/abs/2412.03895)
@@ -106,7 +108,8 @@ AlexNet/GAN...
 [TinyLlama](https://github.com/jzhang38/TinyLlama)
 
 ## Blog
-[Language Modeling by Estimating the Ratios of the Data Distribution](https://aaronlou.com/blog/2024/discrete-diffusion/) (SEDD)
++ Visual Generation [zhihu](https://zhuanlan.zhihu.com/p/687092760)
++ [Language Modeling by Estimating the Ratios of the Data Distribution](https://aaronlou.com/blog/2024/discrete-diffusion/) (SEDD)
 
 ## Video
 + Score Matching [Youtube](https://www.youtube.com/watch?v=B4oHJpEJBAA) [Bilibili](https://www.bilibili.com/video/BV1h8FZeBEqj?vd_source=5519a229401f5e71a4a2b1c367c2a569)
