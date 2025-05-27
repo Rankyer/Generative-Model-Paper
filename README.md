@@ -5,6 +5,7 @@ The following papers are my research interests (some papers I have recently read
 ---
 
 ## Test-Time Scaling (for Diffusion Model):
++ 2025.04.22 [From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning](https://arxiv.org/abs/2504.16080)
 + 2025.03.15 [Reflect-DiT: Inference-Time Scaling for Text-to-Image Diffusion Transformers via In-Context Reflection](https://arxiv.org/abs/2503.12271)
 + 2025.01.30 [SANA 1.5: Efficient Scaling of Training-Time and Inference-Time Compute in Linear Diffusion Transformer](https://arxiv.org/abs/2501.18427v2)
 + 2025.01.16 [Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps](https://arxiv.org/abs/2501.09732)
@@ -16,6 +17,11 @@ The following papers are my research interests (some papers I have recently read
 + 2025.01.31 [SETS: Leveraging Self-Verification and Self-Correction for Improved Test-Time Scaling](https://arxiv.org/abs/2501.19306)
 + 2024.08.06 [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/abs/2408.03314)
 + 2024.07.31 [Large Language Monkeys: Scaling Inference Compute with Repeated Sampling](https://arxiv.org/abs/2407.21787)
+
+## Few-Step Diffusion Model (T2I):
+
+## Few-Step Diffusion Model:
+
 
 ## Noise Optimization for Diffusion Model:
 + 2024.12.05 [A Noise is Worth Diffusion Guidance](https://arxiv.org/abs/2412.03895)
