@@ -19,9 +19,10 @@ The following papers are my research interests (some papers I have recently read
 + 2024.07.31 [Large Language Monkeys: Scaling Inference Compute with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 
 ## Few-Step Diffusion Model (T2I):
++ 2024.12.12 [SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training](https://arxiv.org/abs/2412.09619)
 
 ## Few-Step Diffusion Model:
-
++ 2025.05.19 [Mean Flows for One-step Generative Modeling](https://arxiv.org/abs/2505.13447v1)
 
 ## Noise Optimization for Diffusion Model:
 + 2024.12.05 [A Noise is Worth Diffusion Guidance](https://arxiv.org/abs/2412.03895)
