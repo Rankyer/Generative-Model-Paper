@@ -20,9 +20,19 @@ The following papers are my research interests (some papers I have recently read
 
 ## Few-Step Diffusion Model (T2I):
 + 2024.12.12 [SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training](https://arxiv.org/abs/2412.09619)
++ 2023.11.28 [SDXL-Turbo](https://stability.ai/research/adversarial-diffusion-distillation)
 
 ## Few-Step Diffusion Model:
 + 2025.05.19 [Mean Flows for One-step Generative Modeling](https://arxiv.org/abs/2505.13447v1)
+
+## Image Editing
++ 2025.04.29 [In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer](https://arxiv.org/abs/2504.20690)
++ 2025.04.24 [Step1X-Edit: A Practical Framework for General Image Editing](https://arxiv.org/abs/2504.17761)
++ 2025.02.24 [KV-Edit: Training-Free Image Editing for Precise Background Preservation](https://arxiv.org/abs/2502.17363)
++ 2024.11.22 [HeadRouter: A Training-free Image Editing Framework for MM-DiTs by Adaptively Routing Attention Heads](https://arxiv.org/abs/2411.15034)
++ 2024.11.21 [Stable Flow: Vital Layers for Training-Free Image Editing](https://arxiv.org/abs/2411.14430)
++ 2024.11.07 [Taming Rectified Flow for Inversion and Editing](https://arxiv.org/abs/2501.09732)
++ 2022.08.02 [Prompt-to-Prompt Image Editing with Cross Attention Control](https://arxiv.org/abs/2208.01626)
 
 ## Noise Optimization for Diffusion Model:
 + 2024.12.05 [A Noise is Worth Diffusion Guidance](https://arxiv.org/abs/2412.03895)
@@ -81,13 +91,6 @@ The following papers are my research interests (some papers I have recently read
 + 2023.02.10 [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) (ControlNet)
 + 2022.08.25 [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242) (DreamBooth)
 + 2022.08.02 [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://arxiv.org/abs/2208.01618) (Textual Inversion)
-
-## Image Editing
-+ 2025.02.24 [KV-Edit: Training-Free Image Editing for Precise Background Preservation](https://arxiv.org/abs/2502.17363)
-+ 2024.11.22 [HeadRouter: A Training-free Image Editing Framework for MM-DiTs by Adaptively Routing Attention Heads](https://arxiv.org/abs/2411.15034)
-+ 2024.11.21 [Stable Flow: Vital Layers for Training-Free Image Editing](https://arxiv.org/abs/2411.14430)
-+ 2024.11.07 [Taming Rectified Flow for Inversion and Editing](https://arxiv.org/abs/2501.09732)
-+ 2022.08.02 [Prompt-to-Prompt Image Editing with Cross Attention Control](https://arxiv.org/abs/2208.01626)
 
 ## Trustworthy AI
 
