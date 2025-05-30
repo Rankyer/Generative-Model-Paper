@@ -18,6 +18,10 @@ The following papers are my research interests (some papers I have recently read
 + 2024.08.06 [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/abs/2408.03314)
 + 2024.07.31 [Large Language Monkeys: Scaling Inference Compute with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 
+## Image Generation Benchmark
++ 2023.10.17 [GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment](https://arxiv.org/abs/2310.11513)
++ 2023.07.12 [T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation](https://arxiv.org/abs/2307.06350v2)
+
 ## Few-Step Diffusion Model (T2I):
 + 2025.03.12 [SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency Distillation](https://arxiv.org/abs/2503.09641)
 + 2024.12.12 [SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training](https://arxiv.org/abs/2412.09619)
