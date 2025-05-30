@@ -19,6 +19,7 @@ The following papers are my research interests (some papers I have recently read
 + 2024.07.31 [Large Language Monkeys: Scaling Inference Compute with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 
 ## Few-Step Diffusion Model (T2I):
++ 2025.03.12 [SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency Distillation](https://arxiv.org/abs/2503.09641)
 + 2024.12.12 [SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training](https://arxiv.org/abs/2412.09619)
 + 2024.12.03 [SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance](https://arxiv.org/abs/2412.02687)
 + 2024.08 [FLUX](https://github.com/black-forest-labs/flux)
