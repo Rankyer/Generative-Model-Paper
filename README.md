@@ -20,7 +20,10 @@ The following papers are my research interests (some papers I have recently read
 
 ## Few-Step Diffusion Model (T2I):
 + 2024.12.12 [SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training](https://arxiv.org/abs/2412.09619)
-+ 2023.11.28 [SDXL-Turbo](https://stability.ai/research/adversarial-diffusion-distillation)
++ 2024.12.03 [SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance](https://arxiv.org/abs/2412.02687)
++ 2024.08 [FLUX](https://github.com/black-forest-labs/flux)
++ 2023.11.28 [SDXL-Turbo](https://stability.ai/research/adversarial-diffusion-distillation) [github](https://github.com/Stability-AI/generative-models)
++ 2023.09.30 [PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis](https://arxiv.org/abs/2310.00426)
 
 ## Few-Step Diffusion Model:
 + 2025.05.19 [Mean Flows for One-step Generative Modeling](https://arxiv.org/abs/2505.13447v1)
