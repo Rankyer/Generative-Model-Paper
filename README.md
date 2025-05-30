@@ -42,6 +42,9 @@ The following papers are my research interests (some papers I have recently read
 + 2024.11.07 [Taming Rectified Flow for Inversion and Editing](https://arxiv.org/abs/2501.09732)
 + 2022.08.02 [Prompt-to-Prompt Image Editing with Cross Attention Control](https://arxiv.org/abs/2208.01626)
 
+## Diffusion Fine-Tuning through Human Feedback:
++ 2024.04.06 [Aligning Diffusion Models by Optimizing Human Utility](https://arxiv.org/abs/2404.04465)
+
 ## Noise Optimization for Diffusion Model:
 + 2024.12.05 [A Noise is Worth Diffusion Guidance](https://arxiv.org/abs/2412.03895)
 + 2024.07.19 [Not All Noises Are Created Equally:Diffusion Noise Selection and Optimization](https://arxiv.org/abs/2407.14041)
