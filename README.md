@@ -34,6 +34,8 @@ The following papers are my research interests (some papers I have recently read
 + 2025.05.19 [Mean Flows for One-step Generative Modeling](https://arxiv.org/abs/2505.13447v1)
 
 ## Image Editing
++ 2025.05.26 [ImgEdit: A Unified Image Editing Dataset and Benchmark](https://arxiv.org/abs/2505.20275)
++ 2025.05.22 [KRIS-Bench: Benchmarking Next-Level Intelligent Image Editing Models](https://arxiv.org/abs/2505.16707)
 + 2025.04.29 [In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer](https://arxiv.org/abs/2504.20690)
 + 2025.04.24 [Step1X-Edit: A Practical Framework for General Image Editing](https://arxiv.org/abs/2504.17761)
 + 2025.02.24 [KV-Edit: Training-Free Image Editing for Precise Background Preservation](https://arxiv.org/abs/2502.17363)
@@ -106,6 +108,7 @@ The following papers are my research interests (some papers I have recently read
 ## Trustworthy AI
 
 ## Efficient AI:
+[Survy](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174785525.52679852)
 + 2023.12.06 [On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm](https://arxiv.org/abs/2312.03526) (RDED)
 + 2023.06.22 [Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective](https://arxiv.org/abs/2306.13092) (SRe2L)
 + 2022.07.20 [DC-BENCH: Dataset Condensation Benchmark](https://arxiv.org/abs/2207.09639)
