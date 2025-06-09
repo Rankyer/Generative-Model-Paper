@@ -19,7 +19,14 @@ The following papers are my research interests (some papers I have recently read
 + 2024.09.02 [TempMe: Video Temporal Token Merging for Efficient Text-Video Retrieval](https://arxiv.org/abs/2409.01156)
 + 2024.05.31 [Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis](https://arxiv.org/abs/2405.21075)
 + 2024.03.22 [InternVideo2: Scaling Foundation Models for Multimodal Video Understanding](https://arxiv.org/abs/2403.15377)
++ 2023.06.08 [Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models](https://arxiv.org/abs/2306.05424)
 + 2022.12.06 [InternVideo: General Video Foundation Models via Generative and Discriminative Learning](https://arxiv.org/abs/2212.03191)
+
+## Video Understanding Through Visual Encoder Compression
++ 2024.04.08 [MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding](https://arxiv.org/abs/2404.05726)
++ 2024.04.04 [LongVLM: Efficient Long Video Understanding via Large Language Models](https://arxiv.org/abs/2404.03384)
++ 2023.11.28 [LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models](https://arxiv.org/abs/2311.17043)
++ 2023.07.31 [MovieChat: From Dense Token to Sparse Memory for Long Video Understanding](https://arxiv.org/abs/2307.16449)
 
 ## Test-Time Scaling (for Diffusion Model):
 + 2025.04.22 [From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning](https://arxiv.org/abs/2504.16080)
