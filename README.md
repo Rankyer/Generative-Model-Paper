@@ -4,6 +4,21 @@ The following papers are my research interests (some papers I have recently read
 
 ---
 
+## Video Understanding
+<!--
++ 2025.06.04 [MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos](https://arxiv.org/abs/2506.04141)
++ 2025.06.04 [Video-Skill-CoT: Skill-based Chain-of-Thoughts for Domain-Adaptive Video Reasoning](https://arxiv.org/abs/2506.03525)
+-->
++ 2025.06.03 [Video-XL-2](https://github.com/VectorSpaceLab/Video-XL/blob/main/Video-XL-2/README.md)
++ 2025.03.24 [Video-XL-Pro: Reconstructive Token Compression for Extremely Long Video Understanding](https://arxiv.org/abs/2503.18478)
++ 2025.01.21 [InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling](https://arxiv.org/abs/2501.12386)
++ 2024.12.31 [Online Video Understanding: A Comprehensive Benchmark and Memory-Augmented Method](https://arxiv.org/abs/2501.00584v1)
++ 2024.09.27 [From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding](https://arxiv.org/abs/2409.18938)
++ 2024.09.22 [Video-XL: Extra-Long Vision Language Model for Hour-Scale Video Understanding](https://arxiv.org/abs/2409.14485)
++ 2024.05.31 [Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis](https://arxiv.org/abs/2405.21075)
++ 2024.03.22 [InternVideo2: Scaling Foundation Models for Multimodal Video Understanding](https://arxiv.org/abs/2403.15377)
++ 2022.12.06 [InternVideo: General Video Foundation Models via Generative and Discriminative Learning](https://arxiv.org/abs/2212.03191)
+
 ## Test-Time Scaling (for Diffusion Model):
 + 2025.04.22 [From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning](https://arxiv.org/abs/2504.16080)
 + 2025.03.15 [Reflect-DiT: Inference-Time Scaling for Text-to-Image Diffusion Transformers via In-Context Reflection](https://arxiv.org/abs/2503.12271)
